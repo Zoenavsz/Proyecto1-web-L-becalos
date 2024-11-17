@@ -21,6 +21,9 @@ El formulario es el núcleo de esta página, y cada campo tiene una función esp
 3. **Número de personas**: se asegura que sea al menos 1 para evitar errores.
 4. **Horario**: se presenta como opciones únicas usando botones de radio para que el cliente no pueda seleccionar más de un horario.
 
+#### Link en la página
+Un link en el que sólo los curiosos podrán encontrar una promoción para hacer su experiencia aún más increíble.
+
 #### Condiciones de servicio
 * Se agrega una lista que deja en claro bajo qué condiciones el servicio no se puede prestar. Esto no solo informa, sino que refuerza el compromiso con la seguridad de los clientes. 
 * También se incluye un *checkbox* para que los usuarios confirmen que aceptan los términos antes de enviar el formulario.
